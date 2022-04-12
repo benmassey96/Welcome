@@ -7,6 +7,8 @@ I'm Ben, an aspiring Software Engineer from Hereford, UK. I've completed Codecad
 - 👯 I’d love to collaborate on front-end projects
 - ⚡ Fun fact: I'm a huge Star Wars fan, so much so that I have a Star Wars tattoo!
 
+As well as having completed Codecademy's Full Stack Engineer course, I've also completed their introductory courses on: PHP, Java, C#, jQuery and Python. I'm looking to expand my portfolio and land my first job in the industry. 🏋️‍♂️
+
 <!--
 **benmassey96/benmassey96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
