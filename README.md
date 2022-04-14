@@ -13,4 +13,16 @@ As well as having completed Codecademy's Full Stack Engineer course, I've also c
 
 🛠️ Tech stack
 
+Frontend
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=html5&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=html5&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=html5&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=html5&logoColor=white&color=0769AD)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=html5&logoColor=white&color=61DAFB)
+
+Backend
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=html5&logoColor=white&color=339933)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=html5&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/C#-informational?style=flat&logo=html5&logoColor=white&color=239120)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=html5&logoColor=white&color=3776AB)
