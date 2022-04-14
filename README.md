@@ -9,4 +9,4 @@ I'm Ben, an aspiring Software Engineer from Hereford, UK. I've completed Codecad
 
 As well as having completed Codecademy's Full Stack Engineer course, I've also completed their introductory courses on: PHP, Java, C#, jQuery and Python. I'm looking to expand my portfolio and land my first job in the industry. 🏋️‍♂️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmassey96)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmassey96&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
