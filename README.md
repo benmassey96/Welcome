@@ -13,4 +13,4 @@ As well as having completed Codecademy's Full Stack Engineer course, I've also c
 
 🛠️ Tech stack
 
-![](https://img.shields.io/badge/WORD_ON_LEFT-informational?style=flat&logo=html&logoColor=white&color=#E34F26)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
