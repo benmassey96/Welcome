@@ -4,8 +4,8 @@ I'm an aspiring Software Engineer from Hereford, UK. I've completed Codecademy's
 
 As well as having completed Codecademy's Full Stack Engineer course, I've also completed their introductory courses on: PHP, Java, C#, jQuery and Python. I'm looking to expand my portfolio and land my first job in the industry. 🏋️‍♂️
 
-- 🔭 I’m currently working on a map application called Gazetteer!
-- 🌱 I’m currently learning React. I have touched on it before, but I realise how crucial it is, so I'm looking to hone my skills
+- 🔭 I’m currently working on a Company Directory application using MySQL and PHP
+- 🌱 I’m currently honing my skills with ReactJS
 - 👯 I’d love to collaborate on front-end projects
 - ⚡ Fun fact: I'm a huge Star Wars fan, so much so that I have a Star Wars tattoo!
 
