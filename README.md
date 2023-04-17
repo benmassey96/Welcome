@@ -1,8 +1,8 @@
 ### <h1 align="center">Hi there, I'm Ben 👋</h1>
 
-I'm an aspiring Software Engineer from Hereford, UK. I've completed Codecademy's Full Stack Engineer course, so I've dabbled in a lot. I tend to lean towards favouring front-end development, with a fondness for game development, as a bit of a gamer myself.
+I'm a Junior Software Engineer at the Met Office, the UK's National Weather Service. In my own time, I'm a freelance photographer and web developer. I'm based in the city of Hereford, UK.
 
-As well as having completed Codecademy's Full Stack Engineer course, I've also completed their introductory courses on: PHP, Java, C#, jQuery and Python. I'm looking to expand my portfolio and land my first job in the industry. 🏋️‍♂️
+I have a particular fondness for front-end development, and my job covers mostly back-end development, so together I cover the full stack. I love both the creativity and the puzzle-solving that comes with programming, and am always up to collaborate with like-minded people and challenge myself.
 
 - 🔭 I’m currently working on a website for a personal trainer
 - 🌱 I’m currently honing my skills with ReactJS
